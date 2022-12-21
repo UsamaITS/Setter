@@ -1,0 +1,18 @@
+{
+    "name": "usama/setter",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Usama\\Setter\\": "packages/usama/setter/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usama Sultan",
+            "email": "usama.its@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
